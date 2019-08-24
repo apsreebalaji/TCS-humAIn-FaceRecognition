@@ -1,4 +1,4 @@
-# Autoattendance-Cognitive
+# Automatic Attendance and Mood detection
 
 This is the project for face recognition based attendence system. I implemented this system first using only OpenCV, doing everything and then using dlib for face detection and OpenCV for face recognition and the accuracy when we implemented both of them was a bit higher than expected.
 
